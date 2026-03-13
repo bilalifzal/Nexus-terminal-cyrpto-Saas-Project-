@@ -112,7 +112,7 @@
         <div class="watch-item">
             <div>
                 <span class="d-block fw-bold text-white">Tesla</span>
-                <span class="small text-secondary">TSLA</span>
+                <span class="small text-secondary">Tsla</span>
             </div>
             <div class="text-end">
                 <div class="watch-price text-white">$198.20</div>
